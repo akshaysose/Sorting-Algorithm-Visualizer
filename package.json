@@ -1,0 +1,11 @@
+{
+  "name": "sort-visualizer",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
