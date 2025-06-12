@@ -1,2 +1,3 @@
 # Sorting-Algorithm-Visualizer
-![image](https://github.com/user-attachments/assets/318e1ff7-bcd6-4c5e-8e68-1ba18d793bff)
+#Smaple ScreenShots
+![Screenshot 2025-06-12 155914](https://github.com/user-attachments/assets/8df5d817-3471-4fd4-89ad-4fd39ff6f214)
